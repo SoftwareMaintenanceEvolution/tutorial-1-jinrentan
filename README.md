@@ -1,6 +1,13 @@
 # Tan Jin Ren (S2110761)
 
+I'm a student in the WIF3005 Software Maintenance and Evolution course :)
+
 Final Year Software Engineering Student, a cat person, 22, Malaccan, St. John volunteer.
+
+- **Fun fact**: I like cat, food, bed, games and sweets
+
+[My Image](image.jpg) 
+<-- https://github.com/SoftwareMaintenanceEvolution/tutorial-1-jinrentan/blob/profile-upload/image.png -->
 
 Link to my profile: https://github.com/jinrentan
 

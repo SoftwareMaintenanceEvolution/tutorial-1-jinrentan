@@ -6,8 +6,7 @@ Final Year Software Engineering Student, a cat person, 22, Malaccan, St. John vo
 
 - **Fun fact**: I like cat, food, bed, games and sweets
 
-[My Image](image.jpg) 
-<-- https://github.com/SoftwareMaintenanceEvolution/tutorial-1-jinrentan/blob/profile-upload/image.png -->
+[My Image]([image.jpg](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-jinrentan/blob/profile-upload/image.png)) 
 
 Link to my profile: https://github.com/jinrentan
 
